@@ -1,4 +1,4 @@
-# Champaign Bus Tracker_app
+# Champaign Bus Tracker
 
 This is the official site for the Champaign Bus Tracker App on Google Play Store and App Store
 
